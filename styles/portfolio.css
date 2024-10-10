@@ -52,3 +52,9 @@ nav a {
     text-decoration: none;
     color: #474747;
 }
+
+/* header styling */
+
+.header {
+    background-color: #FFF8F3;
+}
